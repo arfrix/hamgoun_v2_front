@@ -1,5 +1,5 @@
 import React from "react";
 
 export default function HomeView() {
-  return <div>test</div>;
+  return <h1>tesst</h1>;
 }
