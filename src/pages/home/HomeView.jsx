@@ -1,5 +1,12 @@
 import React from "react";
+import HeaderBodyFooter from '../../layouts/HeaderBodyFooterLayout'
 
 export default function HomeView() {
-  return <h1>tesst</h1>;
+  return (
+    <section>
+      <HeaderBodyFooter>
+        sdfsdfsdf
+      </HeaderBodyFooter>
+    </section>
+  );
 }
